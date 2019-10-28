@@ -34,5 +34,3 @@ cdvPluginPostBuildExtras.add({
   apply plugin: 'com.google.gms.google-services'
   apply plugin: 'io.fabric'
 })
-
-com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true
